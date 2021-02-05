@@ -54,7 +54,7 @@ name = 'welcome in python"
 
 # -------------------------------------------------------------------------------
 
-## Q8 :   'variables'
+## Q8 :   
 
 # what's the different between high level language & low level language ?
 # python interpeted or compiled language ?
