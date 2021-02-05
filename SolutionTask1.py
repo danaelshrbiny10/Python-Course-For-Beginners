@@ -118,7 +118,7 @@ bool is type of python variables and always take variables "true or false"
 =  To Arithimatic Operators    ,   ==  To Comparison operators
 
 #       2)  '' , "" and ''' '''
-'' and "" when write str   , ''' ''' when write comment to  multi line
+'' and "" when write str   , ''' ''' when write comment to  multi lines
 
 #       3)  int , str and float
 int ===> for integer (Right Num)  , str ===> for string and write in '' or "" , float ===> for fraction num
