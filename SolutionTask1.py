@@ -90,11 +90,12 @@ name = 'welcome in python'   OR   name = "welcome in python"
 ## Q8 :   
 
 # what's the different between high level language & low level language ?
-High Level Language : 1) It is programmer language
+High Level Language :    1) It is programmer language
                          2) less memory efficient
                          3) easy to understand
                          4) It is simple to debug and maintain comparatively
-low  Level Language : 1) It is a machine language
+
+low  Level Language :    1) It is a machine language
                          2) high memory efficient
                          3) It is Hard to understand
                          4) It is complex to debug and maintain comparatively
