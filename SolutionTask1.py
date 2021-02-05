@@ -11,6 +11,7 @@ print(a + a + a)
 # print(6 + 6 +6)   
 
 output ===>  18    
+
 # --------------------------------------------------------------------
 
 ## Q2 :
@@ -61,6 +62,7 @@ print(b == c)    # not excute because variable c not found
 10 / 3 = 3.3333333333333335             # always result in float
 10 //3 = 3                              # result with right num
 10 % 3 = 1                              # rest of division
+
 # ----------------------------------------------------------------------------
 
 ## Q6 :
@@ -73,6 +75,7 @@ print(x)
 x = 20
 x +=20          ====> x = x + 20        ===> x = 20 + 20
 print(x)        ====> 40
+
 # -------------------------------------------------------------------------------
 
 ## Q7 :
@@ -81,6 +84,7 @@ name = 'welcome in python"
 
 #solution :
 name = 'welcome in python'   OR   name = "welcome in python"
+
 # -------------------------------------------------------------------------------
 
 ## Q8 :   
@@ -151,4 +155,5 @@ Mean 'Not Equal' in Comparison Operators
 6) ?age = 20                                # false   ===> invalid syntax
 7) float ====> double in memory             # true
 8) /t ==> new line   ,  /n ===> tab         # false   ===> /t ==> tab , /n ==> new line
+
 # -----------------------------------------------------------------------------------
